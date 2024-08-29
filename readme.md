@@ -1,5 +1,5 @@
 
-<img src="banner.png" alt="banner">
+<img src="https://github.com/codewithzobia/codewithzobia/blob/15088af425c2a398e43c87c2a2b4fef7a4e7ad6f/Neon%20Green%20Gaming%20Channel%20YouTube%20Banner.png" alt="banner">
 
 <h1 align="center">Hi 👋, I'm Zobia Developer</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
